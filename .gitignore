@@ -164,7 +164,6 @@ dist
 .pytest_cache
 
 tendermint
-contracting
 lamden
 /xian_venv
 cometbft
